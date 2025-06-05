@@ -133,7 +133,7 @@ section {
   padding: 36px 0;
   width: 100%;
 }
-@media (max-width: none) {
+@media (max-width: 900px) {
   section {
     padding: 24px 0;
   }
@@ -148,7 +148,6 @@ section {
   border-radius: 14px;
   box-shadow: 0 2px 12px #0004;
 }
-
 .about-content {
   display: flex;
   gap: 24px;
