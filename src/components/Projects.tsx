@@ -4,12 +4,12 @@ const projects = [
   {
     title: "iOS App & Smart Home System",
     desc: "Developed an iOS app in Swift for home automation (light control). Integrated with ESP8286 and Firebase.",
-    img: "src/assets/lampy.png"
+    img: "/portfolio/assets/.png"
   },
   {
     title: "Autonomous Vehicle Race",
     desc: "Participatesd in the Paris-Saclay autonomous car competition, contributing to vehicle design and navigation algorithms.",
-    img: "src/assets/car.jpg"
+    img: "/portfolio/assets/car.jpg"
   },
   {
     title: "Parkinson’s Monitoring Tool",
@@ -19,7 +19,7 @@ const projects = [
   {
     title: "Embedded STM32 System",
     desc: "Designed a system with STM32, LEDs, potentiometer, RGB LCD, buttons. 3D modeling (SolidWorks) and PCB (EasyEDA).",
-    img: "src/assets/boite.png"
+    img: "/portfolio/assets/boite.png"
   }
 ];
 

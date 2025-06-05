@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 
 const images = [
-  { src: "src/assets/drone build.jpg", description: "Drone prototype under construction" },
-  { src: "src/assets/drone max.jpg", description: "Drone in fly" },
-  { src: "src/assets/drone.jpg", description: "FlyForEveryon Event" },
-  { src: "src/assets/wakee.jpg", description: "Wakee energy-saving device" },
-  { src: "src/assets/car.jpg", description: "Autonomous Vehicle Race" },
+  { src: "/portfolio/assets/drone build.jpg", description: "Drone prototype under construction" },
+  { src: "/portfolio/assets/drone max.jpg", description: "Drone in fly" },
+  { src: "/portfolio/assets/drone.jpg", description: "FlyForEveryon Event" },
+  { src: "/portfolio/assets/wakee.jpg", description: "Wakee energy-saving device" },
+  { src: "/portfolio/assets/car.jpg", description: "Autonomous Vehicle Race" },
 ];
 
 const Carousel: React.FC = () => {
