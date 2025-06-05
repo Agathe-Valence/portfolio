@@ -7,7 +7,7 @@ const Experience: React.FC = () => (
       <div className="timeline-item">
         <div className="timeline-dot" />
         <div className="timeline-content">
-          <h3>Cleeven – Client Jet Aviation (6 months, current)</h3>
+          <h3>Cleeven – Client Jet Aviation (12.2024 - 06.2025)</h3>
           <p>
             Integration and development of electronic systems for in-flight entertainment (IFE/IFX) in private jets for Jet Aviation.
           </p>
@@ -25,7 +25,7 @@ const Experience: React.FC = () => (
       <div className="timeline-item">
         <div className="timeline-dot" />
         <div className="timeline-content">
-          <h3>Alten (6 months)</h3>
+          <h3>Alten (03.2024 - 09.2024)</h3>
           <p>
             I contributed to the development of autonomous robotic systems by porting existing code to the ROS2 environment and creating driver packages for robot hardware. I utilized ROS2 tools to enable mapping and autonomous navigation, integrating a mouse sensor for odometry to allow robots to locate themselves within a lab environment. My responsibilities included programming in Python, defining system architectures and requirements, designing modular navigation algorithms (Nav2), and integrating sensors and actuators. I performed robotic simulations and deployed solutions on Raspberry Pi 4 and Arduino R4 platforms, while maintaining regular progress reporting.          
           </p>
@@ -38,7 +38,7 @@ const Experience: React.FC = () => (
       <div className="timeline-item">
         <div className="timeline-dot" />
         <div className="timeline-content">
-          <h3>Stimshop (5 months)</h3>
+          <h3>Stimshop (11.2022 - 03.2023)</h3>
           <p>
             Signal processing and optimization with STM32. Product base on communication and data exchange via ultrasound. I developed an ultra-low-power switch (300x less consumption), suitable for both home and industrial use.
           </p>
