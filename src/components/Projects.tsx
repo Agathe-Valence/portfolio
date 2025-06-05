@@ -4,7 +4,7 @@ const projects = [
   {
     title: "iOS App & Smart Home System",
     desc: "Developed an iOS app in Swift for home automation (light control). Integrated with ESP8286 and Firebase.",
-    img: "/portfolio/assets/.png"
+    img: "/portfolio/assets/lampy.png"
   },
   {
     title: "Autonomous Vehicle Race",
