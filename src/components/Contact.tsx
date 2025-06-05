@@ -33,10 +33,10 @@ const Contact: React.FC = () => {
           </ul>
         </div>
         <a
-          href="mailto:agathe.valence@efrei.net?subject=Contact depuis mon portfolio"
+          href="mailto:agathe.valence@efrei.net?subject=Contact from your portfolio"
           className="contact-link"
         >
-          Envoyer un email
+          Send an email
         </a>
       </div>
     </section>
