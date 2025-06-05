@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const images = [
   { src: "/portfolio/assets/drone build.jpg", description: "Drone prototype under construction" },
   { src: "/portfolio/assets/drone max.jpg", description: "Drone in fly" },
-  { src: "/portfolio/assets/drone.jpg", description: "FlyForEveryon Event" },
+  { src: "/portfolio/assets/drone.jpg", description: "FlyForEveryone Event" },
   { src: "/portfolio/assets/wakee.jpg", description: "Wakee energy-saving device" },
   { src: "/portfolio/assets/car.jpg", description: "Autonomous Vehicle Race" },
 ];

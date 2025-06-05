@@ -1,21 +1,46 @@
 import React from "react";
 
-const Contact: React.FC = () => (
-  <section className="contact" id="contact">
-    <h2>Get in Touch</h2>
-    <div className="contact-container">
-      <form className="contact-form">
-        <input type="text" placeholder="Name" />
-        <input type="email" placeholder="Email" />
-        <textarea placeholder="Your message" />
-        <button type="submit">Send Message</button>
-      </form>
-      <div className="contact-info">
-        <a href="agathe.valence@efrei.net">Email</a>
-        <a href="https://www.linkedin.com/in/agathe-valence/">LinkedIn</a>
+const Contact: React.FC = () => {
+  return (
+    <section className="contact" id="contact">
+      <h2 className="contact-title">Contact</h2>
+      <div className="contact-container">
+        <div className="contact-info">
+          <h3>Agathe Valence</h3>
+          <ul>
+            <li>
+              <strong>Email :</strong>{" "}
+              <a href="mailto:agathe.valence@efrei.net">agathe.valence@efrei.net</a>
+            </li>
+            <li>
+              <strong>LinkedIn :</strong>{" "}
+              <a href="https://linkedin.com/in/agathe-valence" target="_blank" rel="noopener noreferrer">
+                linkedin.com/in/agathe-valence
+              </a>
+            </li>
+            <li>
+              <strong>GitHub :</strong>{" "}
+              <a href="https://github.com/agathe-valence" target="_blank" rel="noopener noreferrer">
+                github.com/agathevalence
+              </a>
+            </li>
+            <li>
+              <strong>CV :</strong>{" "}
+              <a href="/portfolio/CV Agathe valence.pdf" download>
+                Download my Resume (PDF)
+              </a>
+            </li>
+          </ul>
+        </div>
+        <a
+          href="mailto:agathe.valence@efrei.net?subject=Contact depuis mon portfolio"
+          className="contact-link"
+        >
+          Envoyer un email
+        </a>
       </div>
-    </div>
-  </section>
-);
+    </section>
+  );
+};
 
 export default Contact;
