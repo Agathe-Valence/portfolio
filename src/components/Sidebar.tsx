@@ -123,7 +123,7 @@ const Sidebar = () => (
     </nav>
     <div className="mt-auto">
       <a
-      href="/assets/CV Agathe valence.pdf"
+      href="/portfolio/CV Agathe valence.pdf"
       download
       className="w-10 h-10 bg-darkBlue rounded-full flex items-center justify-center text-lightBlue"
       >
