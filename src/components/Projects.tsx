@@ -1,39 +1,4 @@
 
-const projects = [
-  {
-    id: "project-1",
-    title: "iOS App & Smart Home System",
-    description: "Developed an iOS app in Swift for home automation (light control). Integrated the system with an ESP8286 and used Firebase for data storage.",
-    tags: ["Swift", "ESP8286", "Firebase", "IoT"],
-    img: "src/assets/lampy.png",
-    alt: "iOS app interface for smart home system with ESP32 integration, dark blue theme",
-  },
-  {
-    id: "project-2",
-    title: "Autonomous Vehicle Race",
-    description: "Participated in the Paris-Saclay autonomous car competition, contributing to vehicle design and navigation algorithms.",
-    tags: ["Computer Vision", "Navigation", "Algorithms", "Robotics"],
-    img: "src/assets/car.jpg",
-    alt: "autonomous vehicle race competition with small scale cars, technical view",
-  },
-  {
-    id: "project-3",
-    title: "Parkinson's Monitoring Tool",
-    description: "Built a wearable device using Arduino Nano and sensors to track patient movements. Data was stored and processed using AI for improved medical monitoring.",
-    tags: ["Arduino Nano", "Sensors", "AI", "Healthcare"],
-    img: "src/assets/parkinson.png",
-    alt: "wearable device for Parkinson",
-  },
-  {
-    id: "project-4",
-    title: "Embedded System with STM32",
-    description: "Designed a system with STM32, LEDs, potentiometer, RGB LCD screen, and buttons. Modeled the 3D enclosure (SolidWorks) and created the PCB (EasyEDA).",
-    tags: ["STM32", "SolidWorks", "EasyEDA", "PCB Design"],
-    img: "src/assets/boite.png",
-    alt: "embedded system with STM32 microcontroller, LEDs, LCD screen and PCB design, technical view",
-  },
-];
-
 const Projects = () => (
   <>
   {/* Projects Section */}
