@@ -15,7 +15,7 @@ const Projects = () => (
           <div className="relative">
             <img
               className="w-full h-48 object-cover"
-              src="src\assets\lampy.png"
+              src="/portfolio/assets/lampy.png"
               alt="iOS app interface for smart home system with ESP32 integration, dark blue theme"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-mediumGray to-transparent" />
@@ -53,7 +53,7 @@ const Projects = () => (
           <div className="relative">
             <img
               className="w-full h-48 object-cover"
-              src="src/assets/car.jpg"
+              src="/portfolio/assets/car.jpg"
               alt="autonomous vehicle race competition with small scale cars, technical view"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-mediumGray to-transparent" />
@@ -88,7 +88,7 @@ const Projects = () => (
           <div className="relative">
             <img
               className="w-full h-48 object-cover"
-              src="src\assets\parkinson.png"
+              src="/portfolio/assets/parkinson.png"
               alt="wearable device for Parkinson"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-mediumGray to-transparent" />
@@ -126,7 +126,7 @@ const Projects = () => (
           <div className="relative">
             <img
               className="w-full h-48 object-cover"
-              src="src\assets\boite.png"
+              src="/portfolio/assets/boite.png"
               alt="embedded system with STM32 microcontroller, LEDs, LCD screen and PCB design, technical view"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-mediumGray to-transparent" />

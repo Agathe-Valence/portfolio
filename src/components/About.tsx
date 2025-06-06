@@ -27,7 +27,7 @@ const About = () => (
           <div className="bg-mediumGray rounded-lg p-6 h-full">
             <img
               className="w-full h-48 rounded-lg mb-4 object-cover"
-              src="src\assets\me.png"
+              src="/portfolio/assets/me.png"
               alt="professional portrait of an embedded systems engineer in dark lighting with blue highlights, minimalist style"
             />
             <div className="flex flex-col space-y-2">
