@@ -93,7 +93,7 @@ const Hobbies = () => {
                     </div>
 
                     <div className="col-span-8">
-                        <h2 className="text-2xl font-bold mb-6 text-lightBlue">Hobbies</h2>
+                        <h2 className="text-2xl font-bold mb-6 text-lightBlue">Hobbies & Projects</h2>
                         <p className="text-gray-300 mb-4">
                             <strong>American Football</strong>: I played this sport for 2 years in a club. I particularly enjoy the team spirit and the fact that every member is important to the team.
                         </p>
